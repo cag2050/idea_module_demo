@@ -1,0 +1,1 @@
+* 此项目是作为一个Parent project存在的，可以直接删除src文件夹。
