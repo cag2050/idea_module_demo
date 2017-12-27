@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="idea_module_demo" />
         <module name="spring_boot_rest" />
+        <module name="spring_boot_rest2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="idea_module_demo" target="1.5" />
       <module name="spring_boot_rest" target="1.8" />
+      <module name="spring_boot_rest2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
